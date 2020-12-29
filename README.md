@@ -18,6 +18,6 @@ S-a creat pagina principală, care este o pagină introductivă, cu informație 
 
 Pe pagina de contacte am folosit liste, iframe pentru includerea hartilor, impartirea pe coloane, elemente pozitionate absolut (telefonul, distribuire, etc)
 
-![Contacte](https://user-images.githubusercontent.com/75493349/103310131-8de57980-4a1f-11eb-812b-06c4fe9d5c8a.png)
+![contacte2](https://user-images.githubusercontent.com/75493349/103310916-89ba5b80-4a21-11eb-94c7-3b4a0f833e14.png)
 
 ## Imbunatatiri
