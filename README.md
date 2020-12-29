@@ -12,7 +12,7 @@ Acest site oferă informație despre IMSP CS Iscalau.
 
 S-a creat pagina principală, care este o pagină introductivă, cu informație de bază. aici am utilizat tabele, paragrafe, imagini ți am făcut continut responsive.
 
-![principala](https://user-images.githubusercontent.com/75493349/103309131-ebc49200-4a1c-11eb-85a7-f418fa5decb0.png)
+![principala2](https://user-images.githubusercontent.com/75493349/103310816-2fb99600-4a21-11eb-8e7e-3e957304c37d.png)
 
 ### Contacte
 
