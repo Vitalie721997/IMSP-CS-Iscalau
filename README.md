@@ -1,12 +1,12 @@
 # IMSP-CS-Iscalau
 Site-ul  web elaborat în cadrul proiectului Tekwill in fiecare scoala. Este prezentat site-ul IMSP CS Iscalau
  
-Link spre site: https://vitalie721997.github.io/Biblioteca/
+Link spre site: https://vitalie721997.github.io/IMSP-CS-Iscalau/
 
 ## Scopul site-ului
 
-Scopul este de a promova bibliotecile din republica Moldova.
-Acest site oferă informație despre biblioteci ...
+Scopul este de a promova IMSP CS Iscalau.
+Acest site oferă informație despre IMSP CS Iscalau.
 
 ### Pagina principala
 
